@@ -1,0 +1,1 @@
+INSERT INTO USERS ( id , username , password , email , first_name , last_name , role ) VALUES ( 1 , 'waleed', '$2a$10$2BHSAOQhKYohC5s3x3Ko4.YuRUqprdG9.BrRyhb9.UUObByzFHAdu' , 'waleednaveed@hotmail.com' , 'waleed' , 'naveed' , 'ROLE_USER');
